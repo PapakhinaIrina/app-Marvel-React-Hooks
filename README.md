@@ -7,7 +7,7 @@ ___
 ### Стэк: React Hooks, React Router, Yup, Formik, JS, CSS.
 
 ___
-### Данное приложение основанное на [Marvel API](https://developer.marvel.com/) содержит информацию и данные по каждому персонажу Marvel, а также  комиксы. Разработанно в рамках прохождения курса Ивана Петриченко [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)
+### Данное приложение основанное на [Marvel API](https://developer.marvel.com/) содержит информацию и данные по каждому персонажу Marvel, а также  комиксы. 
 ___
  > ### Возможности приложения:
 
